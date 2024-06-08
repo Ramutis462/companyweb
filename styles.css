@@ -1,0 +1,11 @@
+body{
+    background-image: url("/home/ra/Desktop/Websites/companyWebsite/img/pex2.jpg");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo{
+    font-size: 100px;
+    color: beige;
+}
